@@ -1,0 +1,12 @@
+# Ignored files for StudentForum
+
+*.db
+
+*.tex
+*.sty
+*.pyc
+
+store.py
+cl.py
+
+media/*
